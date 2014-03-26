@@ -1,0 +1,1 @@
+{"environment":"stg_aws_eu_wi_odi_elt","description":"STG AWS EU WI Odi ELT Environment","packages":{"generik-app-oip-odi-stg":"1.922.4","generik-app-oip-odimedia-stg":"1.2.0-5","generik-app-oip-prs-stg":"1.922.1","generik-app-oip-islands-stg":"1.922.3"}}
