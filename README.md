@@ -1,5 +1,8 @@
+[![Gem Version](https://badge.fury.io/rb/json2val.png)](http://badge.fury.io/rb/json2val)
+
+
 json2val
---------
+========
 
 Commandline json value extractor
 
@@ -9,7 +12,7 @@ Quickly knocked out as I got frustrated with flying JSONs around where i couldn'
 Reads json string from STDIN and ruby prints the value, pass arguments as per example usage below
 
 Usage
-=====
+-----
 
 Example : 
 
